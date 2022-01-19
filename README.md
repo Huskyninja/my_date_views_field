@@ -13,6 +13,6 @@ This was a quick one off for a custom application that captured data create and 
 
 https://www.drupal.org/project/views_database_connector/issues/2887381
 
-This solution is a lot like the default Date object for Views, except it casts the value from the database as a Drupal DateTime object before displaying. You may wish to change this if it does not meet your particular needs.
+This solution is a lot like the default Date field for Views, except it casts the value from the database as a Drupal DateTime object before displaying. You may wish to change this if it does not meet your particular needs.
 
 This module is shared in the hope that it can assist you in your projects.
