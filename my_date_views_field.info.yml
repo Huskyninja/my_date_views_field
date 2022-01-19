@@ -1,0 +1,9 @@
+name: "My Date Views Field Defination"
+type: module
+description: "Custom Date field in views for My Custom Application"
+dependencies:
+  - my_custom_application
+  - views
+  - views_database_connector
+package: "Custom"
+core_version_requirement: ^8 || ^9
