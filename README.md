@@ -3,6 +3,8 @@ Module for using the MySQL TIMESTAMP database field in Views when connecting to 
 
 For more info: https://www.drupal.org/project/views_database_connector
 
+Written to work with both Drupal 8 & 9
+
 ## Installation & Instructions
 You will need to customize the dependencies in the info.yml to match your installation, as well as the views.inc to match your schema. It is recommended to not change the 'my_date' id where it is found as a lot keys in on this value. Or just drop the MyDate class into your application and set your application's views.inc as needed.
 
